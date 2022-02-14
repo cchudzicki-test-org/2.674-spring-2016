@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Lab Notes
+type: CourseSection
 uid: d3b07c27-e5d4-8d13-b9ff-06afa6ce12b9
 ---
 

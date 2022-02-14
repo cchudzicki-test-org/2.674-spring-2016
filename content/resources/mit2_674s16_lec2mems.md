@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-674-micro-nano-engineering-laboratory-spring-2016/5901cd21ac2618ec21240ebbe12c96a3_MIT2_674S16_Lec2MEMS.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 2: Discrete Probability Models'
+type: OCWFile
 uid: 5901cd21-ac26-18ec-2124-0ebbe12c96a3
 ---

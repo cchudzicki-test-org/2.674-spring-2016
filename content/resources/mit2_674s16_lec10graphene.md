@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-674-micro-nano-engineering-laboratory-spring-2016/61dcf5585f8ea9e67c17ed784bcd85f4_MIT2_674S16_Lec10graphene.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 10: MEMS Applications and Product Design'
+type: OCWFile
 uid: 61dcf558-5f8e-a9e6-7c17-ed784bcd85f4
 ---
