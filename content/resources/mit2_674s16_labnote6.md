@@ -9,6 +9,5 @@ parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lab 6 Surface Engineering Using Soft Materials
-type: OCWFile
 uid: 00961629-54b0-11e4-47b2-0a24141045fe
 ---

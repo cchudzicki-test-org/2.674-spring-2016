@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 6: Engineering of Surfaces in Micro / Nano Devices, Surface
   Wetting'
-type: OCWFile
 uid: 679565c9-cc41-c211-3999-9fc6ff92249b
 ---

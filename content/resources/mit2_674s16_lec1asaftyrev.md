@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 1a: Lab Safety Review'
-type: OCWFile
 uid: 545735bc-7f0d-007f-a793-7be04f0cfda8
 ---

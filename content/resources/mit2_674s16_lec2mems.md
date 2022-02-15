@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 2: Discrete Probability Models'
-type: OCWFile
 uid: 5901cd21-ac26-18ec-2124-0ebbe12c96a3
 ---

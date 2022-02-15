@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Mirofluidic Mixing
-type: OCWFile
 uid: f28f8672-e638-6d65-276d-2e6776ae8611
 ---

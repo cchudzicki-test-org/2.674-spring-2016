@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 10: MEMS Applications and Product Design'
-type: OCWFile
 uid: 61dcf558-5f8e-a9e6-7c17-ed784bcd85f4
 ---

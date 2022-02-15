@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 8 Introduction to Nano-scale Imaging and 3D Printing
-type: OCWFile
 uid: 2fdf7974-9e78-dc35-03b3-9f68412395d5
 ---

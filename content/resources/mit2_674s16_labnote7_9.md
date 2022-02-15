@@ -9,6 +9,5 @@ parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Labs 7-9 Growing and Observing Micro and Nanostructures
-type: OCWFile
 uid: 5e8825ec-9afb-0ff2-5960-fadf0a61d3af
 ---

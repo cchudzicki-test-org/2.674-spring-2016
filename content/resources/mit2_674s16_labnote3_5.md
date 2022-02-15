@@ -8,6 +8,5 @@ parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Labs 3-5 Microfluidic Hydrodynamics
-type: OCWFile
 uid: e01a4c05-1cc3-ac77-2245-a1606674efbb
 ---

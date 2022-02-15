@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 5: Microfluidic Hydrodynamics: Electrokinetic Flows'
-type: OCWFile
 uid: 9276d2f8-e7d7-045b-f4d2-8f17d0d71f8b
 ---

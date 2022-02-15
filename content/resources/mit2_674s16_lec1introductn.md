@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: Introduction to Micro / Nano Engineering'
-type: OCWFile
 uid: 00240748-6140-6dce-cea2-9120c86f8f87
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 2.674 (S16) MEMS Fabrication Processes and AFM
-type: OCWFile
 uid: fdf4b636-b1e4-9e3a-87cd-bcea8f8812bd
 ---

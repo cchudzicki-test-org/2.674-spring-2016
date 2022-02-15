@@ -8,6 +8,5 @@ parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Food Dyes
-type: OCWFile
 uid: c380f116-375b-9e68-d925-43feddc0311e
 ---

@@ -12,6 +12,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '2.674 (S16) Lecture 4: Microfluidic Hydrodynamics: Viscous Flow, Surface Tension,
   and the Problem of Mixing'
-type: OCWFile
 uid: c81afa29-0286-beb9-4674-aa08df1de10e
 ---

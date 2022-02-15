@@ -8,6 +8,5 @@ parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lab 11 Graphene
-type: OCWFile
 uid: 6cabf325-714f-538b-02a2-2b80199d8e20
 ---
