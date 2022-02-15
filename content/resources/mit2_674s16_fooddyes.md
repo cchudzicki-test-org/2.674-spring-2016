@@ -4,6 +4,7 @@ description: This file contains the information regarding Food Dyes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-674-micro-nano-engineering-laboratory-spring-2016/c380f116375b9e68d92543feddc0311e_MIT2_674S16_FoodDyes.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document

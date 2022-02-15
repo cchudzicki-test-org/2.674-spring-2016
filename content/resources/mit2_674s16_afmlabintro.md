@@ -5,6 +5,7 @@ description: This file contains the information regarding Atomic Force Microscop
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-674-micro-nano-engineering-laboratory-spring-2016/86aad5b7d546011e2392e59f978d1a46_MIT2_674S16_AFMLabIntro.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lab Notes
 parent_type: CourseSection
 resourcetype: Document
