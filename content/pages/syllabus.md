@@ -44,7 +44,7 @@ There are eleven labs roughly falling into five categories.
 4.  Growing, building and observing micro and nanostructures (Labs 7, 8 and 9)
 5.  Scanning nanosurfaces with AFM cantilevers (Labs 10 and 11)
 
-The lab modules will have students _touch, see, build_ micro-and nano-scale objects and _think_ about their design implications and the underlying science through lab sessions. For each lab module, [a comprehensive reader containing background material]({{< baseurl >}}/pages/readings), laboratory protocols and lab write-up questions will be distributed in lecture. Suggested background reading material is very useful for the completion of the lab write-up material.
+The lab modules will have students _touch, see, build_ micro-and nano-scale objects and _think_ about their design implications and the underlying science through lab sessions. For each lab module, {{< resource_link 37212727-2cf7-b919-4a4c-397952899b9c "a comprehensive reader containing background material" >}}, laboratory protocols and lab write-up questions will be distributed in lecture. Suggested background reading material is very useful for the completion of the lab write-up material.
 
 Lab Reports
 -----------
