@@ -81,7 +81,7 @@ References
 
 {{% resource_link 86aad5b7-d546-011e-2392-e59f978d1a46 "Atomic Force Microscopy Lab Introduction (PDF - 1.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sony Digital Camera Module Technical Manual (PDF)](https://pro.sony.com/bbsc/assetDownloadController/XCDV60_V60CR_SX90_SX90CR_U100_U100CR_Technical_Manual.pdf?path=Asset%20Hierarchy$Professional$SEL-yf-generic-153703$SEL-yf-generic-153738SEL-asset-116864.pdf&id=StepID$SEL-asset-116864$original&dimension=original)
+[Sony Digital Camera Module Technical Manual (PDF)](https://pro.sony.com/bbsc/assetDownloadController/XCDV60_V60CR_SX90_SX90CR_U100_U100CR_Technical_Manual.pdf?path=Asset%20Hierarchy$Professional$SEL-yf-generic-153703$SEL-yf-generic-153738SEL-asset-116864.pdf&id=StepID$SEL-asset-116864$original&dimension=original)
 
 {{% resource_link 692eb8f4-4606-291b-6612-d3c2ca17380a "Microscope Conversions" %}}
 
