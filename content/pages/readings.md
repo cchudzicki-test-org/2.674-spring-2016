@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a reading list of 11 reading materials.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

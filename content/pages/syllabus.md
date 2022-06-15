@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Course Meeting Times, Prerequisites, corequisites,
+  course highlight, brief explanation of lectures and labs, as well as grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

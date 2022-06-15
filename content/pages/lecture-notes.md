@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 11 Lecture Notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
