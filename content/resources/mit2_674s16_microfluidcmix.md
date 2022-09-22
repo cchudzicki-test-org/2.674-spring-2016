@@ -5,6 +5,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/f28f8672e6386
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
